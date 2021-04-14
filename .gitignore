@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Json Credencials file
+credentials.json
+
 # Log file
 *.log
 
